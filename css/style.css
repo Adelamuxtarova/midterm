@@ -1,0 +1,168 @@
+body{
+    margin: 0 auto;
+    padding: 0;
+}
+.main{
+    width: 100%;
+    height: 1883px;
+    background-color: aqua ;
+
+}
+.header{
+    width: 100%;
+    height: 100px;
+    background-color: antiquewhite;
+    display: table;
+    justify-content: space-between;
+}
+.yazi1{
+    position: absolute;
+    top: 30px;
+}
+.yazi2{
+    position: absolute;
+    top: 30px;
+    left: 340px;
+}
+.yazi3{
+    position: absolute;
+    top: 30px;
+    left: 530px;
+}
+.yazi4{
+    position: absolute;
+    top: 30px;
+    left: 700px;
+}
+.yazi5{
+    position: absolute;
+    top: 30px;
+    right: 337px;
+}
+.goy{
+    position: absolute;
+width: 305px;
+height: 83px;
+left: 915px;
+top: 0px;
+
+background: #253476;
+}
+.orta{
+    width: 1166px;
+    height: 308px;
+    background-color: red;
+    position:relative;
+    left: 128px;
+    top: 41px;
+    background-image: url(birinci.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.yazi6{
+    font-size: 38px;
+    color: #27AE60;
+    
+}
+.yazi7{
+    font-size: 38px;
+    color: #494949;
+    position: relative;
+    top: 55px;
+    left: -258px;
+}
+.asagi{
+    width: 100%;
+    height: 1500px;
+    background-color: yellow;
+    position: relative;
+    top: 100px;
+}
+.wek1{
+    width: 350px;
+    height: 400px;
+    background-color: pink;
+    left: 132px;
+    position: relative;
+    display: inline-block;
+    background-image: url(bir.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+.wek2{
+    height: 400px;
+    width: 350px;
+    background-color: red;
+    left: 180px;
+    position: relative;
+    display: inline-block;
+    background-image: url(iki.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.wek3{
+    height: 400px;
+    width: 350px;
+    background-color: pink;
+    left: 207px;
+    display: inline-block;
+    position: relative;
+    height: 399px;
+    width: 327px;
+    background-image: url(alti.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    top: 424px;
+}
+    
+
+
+.wek4{
+    height: 400px;
+    width: 350px;
+    position: relative;
+    background-color: pink;
+    display: inline-block;
+    top: -1px;
+    left: -124px;
+    background-image: url(ucuncu.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.wek5{
+    height: 400px;
+    width: 348px;
+    position: relative;
+    background-color: pink;
+    display: inline-block;
+    top: 20px;
+    left: 132px;
+    background-image: url(dord.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.wek6{
+    height: 399px;
+    width: 327px;
+    position: relative;
+    top:20px ;
+    left: 180px;
+    background-color: pink;
+    display: inline-block;
+    background-image: url(bes.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+   
+
